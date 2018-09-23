@@ -3,8 +3,7 @@ title: Blink sketch-a
 parent: sketch-ak.md
 ---
 
-# Blink sketch-a
-## Arduinorako blink sketch-a ikusi daiteke orrialde honetan.
+#### Arduinorako blink sketch adibidea.
 
 ```cpp
 void setup() {
