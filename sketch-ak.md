@@ -1,6 +1,6 @@
 ---
 title: Sketch bilduma
-weight: 3
+weight: 2
 ---
 
 # Sketch bilduma
