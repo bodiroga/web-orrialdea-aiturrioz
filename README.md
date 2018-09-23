@@ -1,7 +1,8 @@
-# Dokumentazio web orrialdea
+---
+title: Ongi etorria
+weight: 0
+---
 
-## Azpititulua
+Ongi etorri **Don Boscoko GitHub ikastaroko web orrialdera**!
 
-Hau da gure proiektuaren dokumentazioa.
-
-Mila esker!
+![Mila esker](http://www.quilezstamps.com/wp-content/uploads/2016/12/mila-esker.jpg)
