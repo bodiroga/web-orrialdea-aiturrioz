@@ -1,8 +1,8 @@
+mdl_colors: indigo-pink # a supported Material Design Lite color scheme
+copyright: Aitor Iturrioz # will override the copyright notice (default is site title)
+menu_style: dropdown # will only show child menu items for the main item selected
+search: false # hides this page from search results
+
 plugins:
   - jekyll-remote-theme
 remote_theme: chromatical/jekyll-materialdocs
-
-mdl_colors: indigo-pink # a supported Material Design Lite color scheme
-copyright: Aitor Iturrioz # will override the copyright notice (default is site title)
-search: true # enabled by default, set to false to disable site search
-menu_style: dropdown # will only show child menu items for the main item selected
