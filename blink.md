@@ -21,3 +21,5 @@ void loop() {
    digitalWrite(BUILTIN_LED, LOW);
    delay(2000);
 ```
+
+![Arduino blink](https://cdn.instructables.com/F60/IZJJ/I8ZQZMO9/F60IZJJI8ZQZMO9.LARGE.jpg)
