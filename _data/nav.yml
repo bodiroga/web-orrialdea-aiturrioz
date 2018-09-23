@@ -1,6 +1,6 @@
 - title: "External Menu Item"
   url: "https://example.com"
-  tab: true # opens this link in a new tab
+  tab: false # opens this link in a new tab
   id: example # will be used as a parent item
 
 - title: "Child Menu Item"
