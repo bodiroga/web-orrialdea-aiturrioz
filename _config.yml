@@ -1,6 +1,5 @@
-mdl_colors: indigo-pink # a supported Material Design Lite color scheme
+logo: http://www.itelazpi.eus/wp-content/uploads/DonBosco_logo.jpg
 copyright: Aitor Iturrioz # will override the copyright notice (default is site title)
-menu_style: dropdown # will only show child menu items for the main item selected
 search: false # hides this page from search results
 
 plugins:
